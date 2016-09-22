@@ -1,0 +1,64 @@
+* {
+	box-sizing: border-box;
+}
+
+header .container {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+header {
+	margin-bottom: 2em;
+	border-bottom: 1px solid #ddd;
+}
+
+/* Fix for making the bootstrap container into a flexbox */
+header .container:before,
+header .container:after {
+	content: initial;
+}
+
+header nav ul {
+	list-style: none;
+	display: flex;
+	margin: 0;
+	padding: 0;
+}
+
+header nav li {
+	margin-left: 1em;
+}
+
+.auction-container {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.auction {
+	background: #eee;
+	border: 1px solid #ddd;
+	border-radius: 5px;
+	padding: 1em;
+	width: 25%;
+	text-align: center;
+}
+
+.auction img {
+	max-width: 100%;
+	margin: 1em 0;
+}
+
+.auction-image {
+	max-width: 300px;
+	padding: 1em;
+	border: 1px solid #ddd;
+}
+
+.auction-info {
+	display: flex;
+	justify-content: space-between;
+	padding-bottom: 1em;
+	border-bottom: 1px solid #ddd;
+	margin-bottom: 1em;
+}

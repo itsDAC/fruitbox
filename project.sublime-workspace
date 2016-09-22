@@ -1,0 +1,570 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Re",
+				"Request"
+			],
+			[
+				"in",
+				"initial"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"spa",
+				"space-between"
+			],
+			[
+				"fl",
+				"flex"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"res",
+				"resource"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"save",
+				"save"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"al",
+				"alt	Attr"
+			],
+			[
+				"flex",
+				"inline-flex"
+			],
+			[
+				"border",
+				"border-style"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"c",
+				"cover"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"co",
+				"courseordinates"
+			],
+			[
+				"bor",
+				"border-bottom	styl"
+			],
+			[
+				"j",
+				"justify-content"
+			],
+			[
+				"fle",
+				"flex-wrap"
+			],
+			[
+				"object",
+				"object-fit"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"slid",
+				"slideUp"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fonts",
+				"font-size"
+			],
+			[
+				"todo",
+				"Todo"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"tras",
+				"translate3d()"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"p",
+				"php"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"textal",
+				"text-align"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"nivo",
+				"nivoSlider"
+			],
+			[
+				"borderr",
+				"border-radius"
+			],
+			[
+				"min",
+				"minlength	Attr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "lara",
+		"selected_items":
+		[
+			[
+				"lara",
+				"Set Syntax: Laravel Blade"
+			],
+			[
+				"schem",
+				"Schemr: List all schemes"
+			],
+			[
+				"themr",
+				"Themr: List themes"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"blad",
+				"Set Syntax: Laravel Blade"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"styl",
+				"Set Syntax: Stylus"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"SASS",
+				"Set Syntax: Sass"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"larav",
+				"Set Syntax: Laravel Blade"
+			]
+		],
+		"width": 503.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/845862983/Desktop/fruitbox"
+	],
+	"file_history":
+	[
+		"/project.sublime-project",
+		"/Users/845862983/Desktop/fruitbox/resources/views/home.blade.php",
+		"/Users/845862983/Desktop/fruitbox/resources/views/single_auction.blade.php",
+		"/Users/845862983/Desktop/fruitbox/app/Http/Controllers/AuctionController.php",
+		"/Users/845862983/Desktop/fruitbox/app/Http/Controllers/BidController.php",
+		"/Users/845862983/Desktop/fruitbox/public/assets/css/style.css",
+		"/Users/845862983/Desktop/fruitbox/app/Auction.php",
+		"/Users/845862983/Desktop/fruitbox/app/Bid.php",
+		"/Users/845862983/Desktop/fruitbox/app/Http/Auction.php",
+		"/Users/845862983/Desktop/fruitbox/resources/views/auction_form.blade.php",
+		"/Users/845862983/Desktop/fruitbox/app/Http/routes.php",
+		"/Users/845862983/Desktop/fruitbox/app/Http/Controllers/TestController.php",
+		"/Users/845862983/Desktop/fruitbox/public/assets/style.css",
+		"/Users/845862983/Desktop/fruitbox/resources/views/layouts/main.blade.php",
+		"/Users/845862983/Desktop/fruitbox/resources/views/partials/errors-alert.blade.php",
+		"/Users/845862983/Desktop/fruitbox/resources/views/login.blade.php",
+		"/Users/845862983/Desktop/fruitbox/app/Http/Controllers/AuthController.php",
+		"/Users/845862983/Desktop/fruitbox/app/Http/Controllers/UserController.php",
+		"/Users/845862983/Desktop/fruitbox/resources/views/register.blade.php",
+		"/Users/845862983/Desktop/fruitbox/vendor/symfony/routing/RouteCollection.php",
+		"/Users/845862983/Desktop/fruitbox/app/User.php",
+		"/Users/845862983/Desktop/fruitbox/.env",
+		"/Users/845862983/Desktop/fruitbox/database/migrations/2016_09_20_033416_create_auctions_table.php",
+		"/Users/845862983/Desktop/fruitbox/database/migrations/2016_09_20_034314_create_bids_table.php",
+		"/Users/845862983/Desktop/batman_blog/app/Http/routes.php",
+		"/Users/845862983/Desktop/batman_blog/resources/views/home.blade.php",
+		"/Users/845862983/Desktop/batman_blog/resources/views/layouts/main.blade.php",
+		"/Users/845862983/Desktop/batman_blog/resources/views/login.blade.php",
+		"/Users/845862983/Desktop/batman_blog/resources/views/register.blade.php",
+		"/Users/845862983/Desktop/batman_blog/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/Users/845862983/Desktop/batman_blog/app/User.php",
+		"/Users/845862983/Desktop/batman_blog/resources/views/post_edit.blade.php",
+		"/Users/845862983/Desktop/batman_blog/app/Post.php",
+		"/Users/845862983/Desktop/batman_blog/config/app.php",
+		"/Users/845862983/Desktop/batman_blog/app/Http/post.php",
+		"/Users/845862983/Desktop/batman_blog/.env",
+		"/Users/845862983/Desktop/day1/resources/views/home.blade.php",
+		"/Users/845862983/Desktop/day1/database/seeds/PostsSeeder.php",
+		"/Users/845862983/Desktop/day1/resources/views/fruits.blade.php",
+		"/Users/845862983/Desktop/day1/database/seeds/DatabaseSeeder.php",
+		"/Users/845862983/Desktop/day1/resources/views/layouts/multisection.blade.php",
+		"/Users/845862983/Desktop/day1/database/migrations/2016_09_14_042502_create_posts_table.php",
+		"/Users/845862983/Desktop/day1/.env",
+		"/Users/845862983/Desktop/my-first-repo/index.html",
+		"/Users/845862983/Desktop/my-first-repo/README.md",
+		"/Users/845862983/Desktop/my-first-repo/.my-first-repo",
+		"/Users/845862983/Desktop/day1/app/Http/routes.php",
+		"/Users/845862983/Desktop/day1/storage/framework/views/0e3c5c92ba1b3d21cbd8d05e020ecbfb11d6e70e.php",
+		"/Users/845862983/Desktop/day1/storage/framework/sessions/e93a99a4cbe8a79ec5006e570c1cb59648f1c9dd",
+		"/Users/845862983/Desktop/day1/resources/views/welcome.blade.php",
+		"/Users/845862983/Desktop/day1/.day1",
+		"/Users/845862983/Desktop/Advanced Clientside/yoobee.net.nz/_Assignments/WE04/assets/style.css",
+		"/Users/845862983/Desktop/assignment/assets/style.css",
+		"/Users/845862983/Desktop/assignment/index.html",
+		"/Users/845862983/Desktop/assignment/contact.html",
+		"/Users/845862983/Desktop/assignment/gallery.html",
+		"/Users/845862983/Desktop/Advanced Clientside/Google Maps/index.html",
+		"/Users/845862983/Desktop/collis-WE03/WE03/sftp-config.json",
+		"/Users/845862983/Desktop/assignment/sftp-config.json",
+		"/index.html",
+		"/Users/845862983/Desktop/apis/index.html",
+		"/Users/845862983/Desktop/evan.jpg",
+		"/Volumes/PINK_STICK/Elan/assets/image/EVH.jpg",
+		"/Users/845862983/Desktop/svg_stuff/ribbon.svg",
+		"/Users/845862983/Desktop/svg_stuff/index.html",
+		"/Users/845862983/Desktop/svg_stuff/basic.svg",
+		"/Users/845862983/Desktop/svg_stuff/path.svg",
+		"/Users/845862983/Desktop/svg_stuff/triangle.svg",
+		"/Users/845862983/Desktop/responsive-nav/index.html",
+		"/Users/845862983/Desktop/responsive-nav/assets/stylus/body.styl",
+		"/Users/845862983/Desktop/responsive-nav/assets/stylus/vars.styl",
+		"/Users/845862983/Desktop/responsive-nav/assets/stylus/nav.styl",
+		"/Users/845862983/Desktop/responsive-nav/assets/stylus/header.styl",
+		"/Users/845862983/Desktop/responsive-nav/assets/stylus/style.styl",
+		"/Users/845862983/Desktop/responsive-nav/assets/stylus/main.styl",
+		"/Users/845862983/Desktop/responsive-nav/assets/dist/style.css",
+		"/Users/845862983/Desktop/responsive-nav/gulpfile.js",
+		"/Users/845862983/Desktop/responsive-nav/package.json",
+		"/Users/845862983/Desktop/gulp-stylus/package.json",
+		"/Users/845862983/Desktop/gulp-stylus/gulpfile.js",
+		"/Users/845862983/Desktop/gulp-test/gulpfile.js",
+		"/Users/845862983/Desktop/gulp-test/before/style.scss",
+		"/Users/845862983/Desktop/gulp-test/after/style.min.css",
+		"/Users/845862983/Desktop/gulp-test/after/style.css",
+		"/Users/845862983/Desktop/gulp-test/before/style.css",
+		"/Users/845862983/Desktop/gulp-test/package.json",
+		"/Users/845862983/Desktop/slippers/assets/css/style.css",
+		"/Users/845862983/.bash_profile",
+		"/Users/845862983/Desktop/slippers/index.html",
+		"/Users/845862983/Desktop/mediaqueries/index.html",
+		"/Users/845862983/Desktop/Floats/index.html",
+		"/Users/845862983/Desktop/Floats/bootstrap.html",
+		"/Users/845862983/Desktop/jQuery/alerter.html",
+		"/Users/845862983/Desktop/jQuery/accordion.html",
+		"/Users/845862983/Desktop/jQuery/accordion.css",
+		"/Users/845862983/Desktop/jQuery/accordion.js",
+		"/Users/845862983/Desktop/jQuery/jquery4_2.html",
+		"/Users/845862983/Desktop/jquery4_2.html",
+		"/Users/845862983/Desktop/jquery4.html",
+		"/jquery4.html",
+		"/jquery3.html",
+		"/Users/845862983/Desktop/jquery3.html",
+		"/Users/845862983/Desktop/jquery2.html",
+		"/Users/845862983/Desktop/jquery.html",
+		"/jquery.html",
+		"/Users/845862983/Desktop/yoobee.net.nz/_Assignments/WE03/app/views/list.php",
+		"/Users/845862983/Desktop/yoobee.net.nz/_Assignments/WE03/assets/css/style.css",
+		"/Users/845862983/Desktop/yoobee.net.nz/_Assignments/WE03/app/views/header.php",
+		"/Users/845862983/Desktop/yoobee.net.nz/_Assignments/WE03/app/views/search.php",
+		"/Users/845862983/Desktop/yoobee.net.nz/_Assignments/WE03/app/views/cart.php",
+		"/Users/845862983/Desktop/ABSTRAX.jpg",
+		"/Users/845862983/Desktop/yoobee.net.nz/_Assignments/WE03/app/controllers/site.php",
+		"/Users/845862983/Desktop/yoobee.net.nz/_Assignments/WE03/app/controllers/logins.php",
+		"/Users/845862983/Desktop/yoobee.net.nz/_Assignments/WE03/app/routes.php",
+		"/Users/845862983/Desktop/yoobee.net.nz/_Assignments/WE03/app/views/login_form.php",
+		"/Users/845862983/Desktop/yoobee.net.nz/_Assignments/WE03/app/controllers/user.php",
+		"/Users/845862983/Desktop/yoobee.net.nz/_Assignments/WE03/app/views/register.php",
+		"/Users/845862983/Desktop/yoobee.net.nz/_Assignments/WE03/app/libraries/view.lib.php",
+		"/Users/845862983/Desktop/yoobee.net.nz/_Assignments/WE03/app/controllers/kart.php",
+		"/Users/845862983/Desktop/yoobee.net.nz/_Assignments/WE03/app/libraries/config.lib.php",
+		"/Users/845862983/Desktop/yoobee.net.nz/_Assignments/WE03/Shopper/app/routes.php",
+		"/Users/845862983/Desktop/yoobee.net.nz/_Assignments/WE03/.htaccess",
+		"/Users/845862983/Desktop/yoobee.net.nz/_Assignments/WE03/app/models/user.model.php",
+		"/Users/845862983/Desktop/yoobee.net.nz/_Assignments/WE03/app/models/product.php",
+		"/Users/845862983/Desktop/yoobee.net.nz/_Assignments/WE03/app/models/product.collection.php",
+		"/Users/845862983/Desktop/yoobee.net.nz/_Assignments/WE03/Shopper/app/views/register.php",
+		"/Users/845862983/Desktop/yoobee.net.nz/_Assignments/WE03/Shopper/app/views/login.php",
+		"/Users/845862983/Desktop/yoobee.net.nz/_Assignments/WE03/Shopper/app/views/product.php"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n",
+			"font",
+			"item",
+			"border-collapse: collapse;",
+			");\n",
+			"();\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 63.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"routeco",
+				"vendor/symfony/routing/RouteCollection.php"
+			],
+			[
+				".env",
+				".env"
+			],
+			[
+				"2014",
+				"database/migrations/2014_10_12_000000_create_users_table.php"
+			],
+			[
+				"routes",
+				"app/Http/routes.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 236.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
